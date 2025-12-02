@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: o;
+}
+
+body {
+    background-color: #000000;
+    color: #f6f6f6;
+}
+
+.titulo-blog {color: #D40000 ;}
+
+.texto-destaque {color: aquamarine;}
+
+p {
+    margin: 5px;
+    border: 0px;
+    padding: 5px;
+    content: 5px;
+
+}
